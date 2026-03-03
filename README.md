@@ -36,7 +36,7 @@
 ## 🤝 Connect with me
 
 <p align="left">
-<a href="mailto:masudparvessneho@gmail.com" target="_blank">
+<a href="mailto:masudparvessneho@gmail.com?subject=Inquiry%20from%20GitHub" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/masud-parves-sneho/" target="_blank">
