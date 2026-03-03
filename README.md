@@ -6,4 +6,10 @@
 
 ## About me
 
+<p align="justify">
+  I am an undergraduate Computer Science student with a great passion for technology and programming. 
+  Currently, I am focused on mastering Flutter and developing a cross-platform counter app that 
+  features integrated mobile widgets. I love exploring new tools and building functional, 
+  user-friendly applications.
+</p>
 
