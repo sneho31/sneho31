@@ -29,4 +29,17 @@
 
 ## 📊 My GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneho31&bg_color=0D1117&text_color=FFFFFF&title_color=F75C7E&icon_color=F75C7E" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneho31&theme=github_dark" width="100%"/>
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="mailto:masudparvessneho@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/masud-parves-sneho/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
