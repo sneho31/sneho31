@@ -29,4 +29,4 @@
 
 ## 📊 My GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneho31&bg_color=0D1117&text_color=FFFFFF&title_color=F75C7E&icon_color=F75C7E" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneho31&bg_color=0D1117&text_color=FFFFFF&title_color=F75C7E&icon_color=F75C7E" width="120%"/>
