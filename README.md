@@ -4,7 +4,7 @@
 
 ---
 
-## About me
+## ✨ About me 
 
 <p align="justify">
   I am an undergraduate Computer Science student with a great passion for technology and programming. 
@@ -13,3 +13,21 @@
   user-friendly applications.
 </p>
 
+---
+
+## 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 📊 My GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=sneho31&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneho31&layout=compact&theme=radical)
